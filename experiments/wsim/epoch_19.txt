@@ -1,0 +1,1368 @@
+tar.emb.alpha0.05_beta0.95_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12092291113387482
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.2164452796495897
+RG.txt:RG.txt     66
+49
+0.2735294117647059
+rare.txt:rare.txt     2035
+1726
+0.10308434249497864
+tar.emb.alpha0.10_beta0.90_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1232434090481503
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2168743985146369
+RG.txt:RG.txt     66
+49
+0.2823529411764706
+rare.txt:rare.txt     2035
+1726
+0.11509846554270561
+tar.emb.alpha0.15_beta0.85_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12926711451948983
+MC.txt:MC.txt     31
+20
+-0.17575757575757575
+wordsim353.txt:wordsim353.txt     354
+89
+0.2110075751075695
+RG.txt:RG.txt     66
+49
+0.17941176470588235
+rare.txt:rare.txt     2035
+1726
+0.1265915747586676
+tar.emb.alpha0.20_beta0.80_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1332399500820722
+MC.txt:MC.txt     31
+20
+-0.15151515151515152
+wordsim353.txt:wordsim353.txt     354
+89
+0.21585322095415563
+RG.txt:RG.txt     66
+49
+0.1676470588235294
+rare.txt:rare.txt     2035
+1726
+0.1340280871205288
+tar.emb.alpha0.25_beta0.75_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.14696149566504413
+MC.txt:MC.txt     31
+20
+-0.22424242424242424
+wordsim353.txt:wordsim353.txt     354
+89
+0.2299155220244267
+RG.txt:RG.txt     66
+49
+0.15588235294117647
+rare.txt:rare.txt     2035
+1726
+0.1456713189659824
+tar.emb.alpha0.30_beta0.70_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1510723883629142
+MC.txt:MC.txt     31
+20
+-0.2
+wordsim353.txt:wordsim353.txt     354
+89
+0.23162573056806218
+RG.txt:RG.txt     66
+49
+0.22058823529411764
+rare.txt:rare.txt     2035
+1726
+0.15597412618395073
+tar.emb.alpha0.35_beta0.65_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.15322718487299605
+MC.txt:MC.txt     31
+20
+-0.22424242424242424
+wordsim353.txt:wordsim353.txt     354
+89
+0.2196371192015204
+RG.txt:RG.txt     66
+49
+0.17352941176470588
+rare.txt:rare.txt     2035
+1726
+0.1520210338514146
+tar.emb.alpha0.40_beta0.60_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.15953383000775037
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.23886500870031133
+RG.txt:RG.txt     66
+49
+0.08823529411764706
+rare.txt:rare.txt     2035
+1726
+0.15942961642174247
+tar.emb.alpha0.45_beta0.55_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.15874910259859293
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.23048812029477408
+RG.txt:RG.txt     66
+49
+0.17352941176470588
+rare.txt:rare.txt     2035
+1726
+0.16271300985582152
+tar.emb.alpha0.50_beta0.50_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16542305881922997
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.2606049422238521
+RG.txt:RG.txt     66
+49
+0.1676470588235294
+rare.txt:rare.txt     2035
+1726
+0.16724790438993048
+tar.emb.alpha0.55_beta0.45_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16930712143770685
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2441803434506847
+RG.txt:RG.txt     66
+49
+0.12941176470588237
+rare.txt:rare.txt     2035
+1726
+0.16679527747419928
+tar.emb.alpha0.60_beta0.40_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16604492278826663
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2662725436520659
+RG.txt:RG.txt     66
+49
+0.12941176470588237
+rare.txt:rare.txt     2035
+1726
+0.17615134690563372
+tar.emb.alpha0.65_beta0.35_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.17254379268955589
+MC.txt:MC.txt     31
+20
+-0.01818181818181818
+wordsim353.txt:wordsim353.txt     354
+89
+0.26615281256212575
+RG.txt:RG.txt     66
+49
+0.08823529411764706
+rare.txt:rare.txt     2035
+1726
+0.1808291762552367
+tar.emb.alpha0.70_beta0.30_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.17320936844484683
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.27336042627389484
+RG.txt:RG.txt     66
+49
+0.04411764705882353
+rare.txt:rare.txt     2035
+1726
+0.16849591426601868
+tar.emb.alpha0.75_beta0.25_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.17886409931928735
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2722891133809868
+RG.txt:RG.txt     66
+49
+0.023529411764705882
+rare.txt:rare.txt     2035
+1726
+0.17675327498639964
+tar.emb.alpha0.80_beta0.20_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1749855734080771
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.2657629443849653
+RG.txt:RG.txt     66
+49
+0.08529411764705883
+rare.txt:rare.txt     2035
+1726
+0.1862730212108639
+tar.emb.alpha0.85_beta0.15_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1779195070735578
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.3029521465633455
+RG.txt:RG.txt     66
+49
+0.10588235294117647
+rare.txt:rare.txt     2035
+1726
+0.18655047083116919
+tar.emb.alpha0.90_beta0.10_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1698279824438788
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2779415422743873
+RG.txt:RG.txt     66
+49
+0.058823529411764705
+rare.txt:rare.txt     2035
+1726
+0.17910451162805407
+tar.emb.alpha0.95_beta0.05_gama1.00_lambda8.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.17084540148841387
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.28204208472655246
+RG.txt:RG.txt     66
+49
+0.05588235294117647
+rare.txt:rare.txt     2035
+1726
+0.1870745651546474
+tar.emb.alpha0.05_beta0.95_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.11772743141339273
+MC.txt:MC.txt     31
+20
+-0.17575757575757575
+wordsim353.txt:wordsim353.txt     354
+89
+0.20955892787060768
+RG.txt:RG.txt     66
+49
+0.18529411764705883
+rare.txt:rare.txt     2035
+1726
+0.10582762304867066
+tar.emb.alpha0.10_beta0.90_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12523734475690995
+MC.txt:MC.txt     31
+20
+-0.23636363636363636
+wordsim353.txt:wordsim353.txt     354
+89
+0.21570974154885544
+RG.txt:RG.txt     66
+49
+0.15294117647058825
+rare.txt:rare.txt     2035
+1726
+0.11707798951762981
+tar.emb.alpha0.15_beta0.85_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12871755973316992
+MC.txt:MC.txt     31
+20
+-0.22424242424242424
+wordsim353.txt:wordsim353.txt     354
+89
+0.2052532263607489
+RG.txt:RG.txt     66
+49
+0.15588235294117647
+rare.txt:rare.txt     2035
+1726
+0.12604324723371194
+tar.emb.alpha0.20_beta0.80_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.13720074482350014
+MC.txt:MC.txt     31
+20
+-0.23636363636363636
+wordsim353.txt:wordsim353.txt     354
+89
+0.2131614153756389
+RG.txt:RG.txt     66
+49
+0.20294117647058824
+rare.txt:rare.txt     2035
+1726
+0.13545846210604046
+tar.emb.alpha0.25_beta0.75_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.14643934597329947
+MC.txt:MC.txt     31
+20
+-0.15151515151515152
+wordsim353.txt:wordsim353.txt     354
+89
+0.2255187853056878
+RG.txt:RG.txt     66
+49
+0.2088235294117647
+rare.txt:rare.txt     2035
+1726
+0.14599641352478568
+tar.emb.alpha0.30_beta0.70_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.15154582145629117
+MC.txt:MC.txt     31
+20
+-0.2727272727272727
+wordsim353.txt:wordsim353.txt     354
+89
+0.22406650985387933
+RG.txt:RG.txt     66
+49
+0.15294117647058825
+rare.txt:rare.txt     2035
+1726
+0.15165424997142554
+tar.emb.alpha0.35_beta0.65_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1559747981651198
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.22751001558108366
+RG.txt:RG.txt     66
+49
+0.1411764705882353
+rare.txt:rare.txt     2035
+1726
+0.16216427159863744
+tar.emb.alpha0.40_beta0.60_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16154097742095486
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.23667356693292188
+RG.txt:RG.txt     66
+49
+0.16470588235294117
+rare.txt:rare.txt     2035
+1726
+0.15940127589798073
+tar.emb.alpha0.45_beta0.55_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16286740613094758
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.2418094699672417
+RG.txt:RG.txt     66
+49
+0.17058823529411765
+rare.txt:rare.txt     2035
+1726
+0.16642253797689796
+tar.emb.alpha0.50_beta0.50_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16093249650513725
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.2541107674860239
+RG.txt:RG.txt     66
+49
+0.12058823529411765
+rare.txt:rare.txt     2035
+1726
+0.17621398357046947
+tar.emb.alpha0.55_beta0.45_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16749351960450518
+MC.txt:MC.txt     31
+20
+-0.17575757575757575
+wordsim353.txt:wordsim353.txt     354
+89
+0.25898906726623006
+RG.txt:RG.txt     66
+49
+0.07647058823529412
+rare.txt:rare.txt     2035
+1726
+0.17558371496594177
+tar.emb.alpha0.60_beta0.40_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1673816752619055
+MC.txt:MC.txt     31
+20
+-0.17575757575757575
+wordsim353.txt:wordsim353.txt     354
+89
+0.2739313753556756
+RG.txt:RG.txt     66
+49
+0.09705882352941177
+rare.txt:rare.txt     2035
+1726
+0.17573589125657554
+tar.emb.alpha0.65_beta0.35_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1668937917552368
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2731628534836079
+RG.txt:RG.txt     66
+49
+0.11764705882352941
+rare.txt:rare.txt     2035
+1726
+0.17683336777094372
+tar.emb.alpha0.70_beta0.30_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16834725773247583
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.26746919487604076
+RG.txt:RG.txt     66
+49
+0.03235294117647059
+rare.txt:rare.txt     2035
+1726
+0.16793998819483705
+tar.emb.alpha0.75_beta0.25_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16681724526012448
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2657546984421319
+RG.txt:RG.txt     66
+49
+0.04411764705882353
+rare.txt:rare.txt     2035
+1726
+0.16747955736676567
+tar.emb.alpha0.80_beta0.20_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16597045746680772
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2752543544238572
+RG.txt:RG.txt     66
+49
+0.047058823529411764
+rare.txt:rare.txt     2035
+1726
+0.1750717372432023
+tar.emb.alpha0.85_beta0.15_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1688755224336001
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2670407356864202
+RG.txt:RG.txt     66
+49
+-0.052941176470588235
+rare.txt:rare.txt     2035
+1726
+0.1859438193297763
+tar.emb.alpha0.90_beta0.10_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1698610027805756
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.27924407140434226
+RG.txt:RG.txt     66
+49
+0.03529411764705882
+rare.txt:rare.txt     2035
+1726
+0.17647787902723652
+tar.emb.alpha0.95_beta0.05_gama1.00_lambda1.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16906646922386073
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.27428496138436936
+RG.txt:RG.txt     66
+49
+-0.026470588235294117
+rare.txt:rare.txt     2035
+1726
+0.17498712640414546
+tar.emb.alpha0.05_beta0.95_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12036961523265131
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.22808558239085105
+RG.txt:RG.txt     66
+49
+0.18235294117647058
+rare.txt:rare.txt     2035
+1726
+0.11064448525759762
+tar.emb.alpha0.10_beta0.90_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12635695549643083
+MC.txt:MC.txt     31
+20
+-0.23636363636363636
+wordsim353.txt:wordsim353.txt     354
+89
+0.22301036949578465
+RG.txt:RG.txt     66
+49
+0.14411764705882352
+rare.txt:rare.txt     2035
+1726
+0.11724022874786014
+tar.emb.alpha0.15_beta0.85_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1278406681020841
+MC.txt:MC.txt     31
+20
+-0.17575757575757575
+wordsim353.txt:wordsim353.txt     354
+89
+0.20715243191412466
+RG.txt:RG.txt     66
+49
+0.23529411764705882
+rare.txt:rare.txt     2035
+1726
+0.12314737965715773
+tar.emb.alpha0.20_beta0.80_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1362271982046952
+MC.txt:MC.txt     31
+20
+-0.2
+wordsim353.txt:wordsim353.txt     354
+89
+0.2128388340919985
+RG.txt:RG.txt     66
+49
+0.20588235294117646
+rare.txt:rare.txt     2035
+1726
+0.1341108496645577
+tar.emb.alpha0.25_beta0.75_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.14189862844508896
+MC.txt:MC.txt     31
+20
+-0.22424242424242424
+wordsim353.txt:wordsim353.txt     354
+89
+0.21290480163466524
+RG.txt:RG.txt     66
+49
+0.22058823529411764
+rare.txt:rare.txt     2035
+1726
+0.14927754793160838
+tar.emb.alpha0.30_beta0.70_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1480866002746381
+MC.txt:MC.txt     31
+20
+-0.21212121212121213
+wordsim353.txt:wordsim353.txt     354
+89
+0.22531296657256755
+RG.txt:RG.txt     66
+49
+0.22058823529411764
+rare.txt:rare.txt     2035
+1726
+0.15081594549319746
+tar.emb.alpha0.35_beta0.65_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1560184992420757
+MC.txt:MC.txt     31
+20
+-0.2606060606060606
+wordsim353.txt:wordsim353.txt     354
+89
+0.22996994524712677
+RG.txt:RG.txt     66
+49
+0.10882352941176471
+rare.txt:rare.txt     2035
+1726
+0.1576082243547643
+tar.emb.alpha0.40_beta0.60_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16003689572976734
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.23214918301912285
+RG.txt:RG.txt     66
+49
+0.17058823529411765
+rare.txt:rare.txt     2035
+1726
+0.16614241859710788
+tar.emb.alpha0.45_beta0.55_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16239263080550595
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.24746651658862884
+RG.txt:RG.txt     66
+49
+0.08823529411764706
+rare.txt:rare.txt     2035
+1726
+0.16343713077454575
+tar.emb.alpha0.50_beta0.50_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1604125208009654
+MC.txt:MC.txt     31
+20
+-0.2727272727272727
+wordsim353.txt:wordsim353.txt     354
+89
+0.24885645271261725
+RG.txt:RG.txt     66
+49
+0.1264705882352941
+rare.txt:rare.txt     2035
+1726
+0.17600040281168525
+tar.emb.alpha0.55_beta0.45_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16263959436586883
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2491246107735576
+RG.txt:RG.txt     66
+49
+0.08529411764705883
+rare.txt:rare.txt     2035
+1726
+0.16823242954148007
+tar.emb.alpha0.60_beta0.40_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16376062944207534
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.2579899888325421
+RG.txt:RG.txt     66
+49
+-0.0058823529411764705
+rare.txt:rare.txt     2035
+1726
+0.16421731664245082
+tar.emb.alpha0.65_beta0.35_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16712150356686392
+MC.txt:MC.txt     31
+20
+-0.1393939393939394
+wordsim353.txt:wordsim353.txt     354
+89
+0.26403855281965644
+RG.txt:RG.txt     66
+49
+0.11470588235294117
+rare.txt:rare.txt     2035
+1726
+0.17785136759911047
+tar.emb.alpha0.70_beta0.30_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1681622296144577
+MC.txt:MC.txt     31
+20
+-0.17575757575757575
+wordsim353.txt:wordsim353.txt     354
+89
+0.2732476217759347
+RG.txt:RG.txt     66
+49
+0.03529411764705882
+rare.txt:rare.txt     2035
+1726
+0.17075617371907562
+tar.emb.alpha0.75_beta0.25_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16616002275757627
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2744594455347229
+RG.txt:RG.txt     66
+49
+0.09705882352941177
+rare.txt:rare.txt     2035
+1726
+0.17727695857764944
+tar.emb.alpha0.80_beta0.20_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16353636959429532
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2734320010576883
+RG.txt:RG.txt     66
+49
+0.058823529411764705
+rare.txt:rare.txt     2035
+1726
+0.17720179457984653
+tar.emb.alpha0.85_beta0.15_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1669817793507938
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2699043867135838
+RG.txt:RG.txt     66
+49
+0.047058823529411764
+rare.txt:rare.txt     2035
+1726
+0.18237722602419393
+tar.emb.alpha0.90_beta0.10_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16184922672622698
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2681156767941749
+RG.txt:RG.txt     66
+49
+0.05588235294117647
+rare.txt:rare.txt     2035
+1726
+0.17880139124347186
+tar.emb.alpha0.95_beta0.05_gama1.00_lambda2.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16188471377131916
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2597206473144043
+RG.txt:RG.txt     66
+49
+0.047058823529411764
+rare.txt:rare.txt     2035
+1726
+0.19113157274097664
+tar.emb.alpha0.05_beta0.95_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.12012006359184463
+MC.txt:MC.txt     31
+20
+-0.23636363636363636
+wordsim353.txt:wordsim353.txt     354
+89
+0.21350972400091933
+RG.txt:RG.txt     66
+49
+0.15294117647058825
+rare.txt:rare.txt     2035
+1726
+0.10606071358830536
+tar.emb.alpha0.10_beta0.90_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.11994788306212617
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.2156975375534621
+RG.txt:RG.txt     66
+49
+0.2323529411764706
+rare.txt:rare.txt     20351
+1726
+0.11851924890719491
+tar.emb.alpha0.15_beta0.85_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1255239826980348
+MC.txt:MC.txt     31
+20
+-0.23636363636363636
+wordsim353.txt:wordsim353.txt     354
+89
+0.20667053901494403
+RG.txt:RG.txt     66
+49
+0.15588235294117647
+rare.txt:rare.txt     2035
+1726
+0.12504742694588047
+tar.emb.alpha0.20_beta0.80_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.13790195041452846
+MC.txt:MC.txt     31
+20
+-0.22424242424242424
+wordsim353.txt:wordsim353.txt     354
+89
+0.2078467403006922
+RG.txt:RG.txt     66
+49
+0.15588235294117647
+rare.txt:rare.txt     2035
+1726
+0.1367736267014772
+tar.emb.alpha0.25_beta0.75_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.14888594230632926
+MC.txt:MC.txt     31
+20
+-0.22424242424242424
+wordsim353.txt:wordsim353.txt     354
+89
+0.22219237196671696
+RG.txt:RG.txt     66
+49
+0.15294117647058825
+rare.txt:rare.txt     2035
+1726
+0.14966959184364595
+tar.emb.alpha0.30_beta0.70_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.14711511341088981
+MC.txt:MC.txt     31
+20
+-0.15151515151515152
+wordsim353.txt:wordsim353.txt     354
+89
+0.21838835361883882
+RG.txt:RG.txt     66
+49
+0.2088235294117647
+rare.txt:rare.txt     2035
+1726
+0.15120901623580613
+tar.emb.alpha0.35_beta0.65_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.15186402683929812
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.23028032253537384
+RG.txt:RG.txt     66
+49
+0.1411764705882353
+rare.txt:rare.txt     2035
+1726
+0.1576082243547643
+tar.emb.alpha0.40_beta0.60_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1608390007604426
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.24285010795280967
+RG.txt:RG.txt     66
+49
+0.1264705882352941
+rare.txt:rare.txt     2035
+1726
+0.16380945953961865
+tar.emb.alpha0.45_beta0.55_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16177204838250975
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.23387225523357835
+RG.txt:RG.txt     66
+49
+0.14411764705882352
+rare.txt:rare.txt     2035
+1726
+0.1682437246777619
+tar.emb.alpha0.50_beta0.50_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16666572653676287
+MC.txt:MC.txt     31
+20
+0.030303030303030304
+wordsim353.txt:wordsim353.txt     354
+89
+0.2498057256515918
+RG.txt:RG.txt     66
+49
+0.17352941176470588
+rare.txt:rare.txt     2035
+1726
+0.16579966255248205
+tar.emb.alpha0.55_beta0.45_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1590226609166197
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.25298832974754915
+RG.txt:RG.txt     66
+49
+0.06470588235294118
+rare.txt:rare.txt     2035
+1726
+0.1745443570618966
+tar.emb.alpha0.60_beta0.40_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.17082366161268592
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.2530193344926025
+RG.txt:RG.txt     66
+49
+0.06764705882352941
+rare.txt:rare.txt     2035
+1726
+0.1723974597038867
+tar.emb.alpha0.65_beta0.35_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16865597110734476
+MC.txt:MC.txt     31
+20
+-0.18787878787878787
+wordsim353.txt:wordsim353.txt     354
+89
+0.26281551457861485
+RG.txt:RG.txt     66
+49
+0.1
+rare.txt:rare.txt     2035
+1726
+0.1748680140579004
+tar.emb.alpha0.70_beta0.30_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16836341092421128
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.26371135380802935
+RG.txt:RG.txt     66
+49
+0.16470588235294117
+rare.txt:rare.txt     2035
+1726
+0.1794324813124564
+tar.emb.alpha0.75_beta0.25_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1702836059740363
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.2655558063009917
+RG.txt:RG.txt     66
+49
+0.011764705882352941
+rare.txt:rare.txt     2035
+1726
+0.17463697717940785
+tar.emb.alpha0.80_beta0.20_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1672662254555152
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.2744211843599762
+RG.txt:RG.txt     66
+49
+0.026470588235294117
+rare.txt:rare.txt     2035
+1726
+0.17564594089854912
+tar.emb.alpha0.85_beta0.15_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16876693728747658
+MC.txt:MC.txt     31
+20
+-0.12727272727272726
+wordsim353.txt:wordsim353.txt     354
+89
+0.27618086856061175
+RG.txt:RG.txt     66
+49
+0.06764705882352941
+rare.txt:rare.txt     2035
+1726
+0.1880233566023235
+tar.emb.alpha0.90_beta0.10_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.1655425674497094
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.27420876887258927
+RG.txt:RG.txt     66
+49
+0.058823529411764705
+rare.txt:rare.txt     2035
+1726
+0.18403596812871334
+tar.emb.alpha0.95_beta0.05_gama1.00_lambda4.00_epoch19.vec: 
+reading vectors!
+compute correlation coefficient
+scws.txt:scws.txt     1763
+558
+0.16843302136373423
+MC.txt:MC.txt     31
+20
+-0.11515151515151516
+wordsim353.txt:wordsim353.txt     354
+89
+0.26803123833956144
+RG.txt:RG.txt     66
+49
+0.07941176470588235
+rare.txt:rare.txt     2035
+1726
+0.1905019202347916
